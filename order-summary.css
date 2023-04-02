@@ -26,6 +26,7 @@ body {
   font-family: "Red Hat Display", sans-serif;
 }
 
+
 #container {
   width: 400px;
   height: 580px;
@@ -34,6 +35,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  box-shadow: 5px 5px 5px 5px #b3c6ff;
 }
 
 #illustration {
