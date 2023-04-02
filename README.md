@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend mentor](https://www.frontendmentor.io/solutions/nft-card-component-with-flexbox-BULuYq9QgN)
-- Live Site URL: [Vercel](https://nft-card-component-sigma.vercel.app/)
+- Solution URL: [Frontend mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub)
+- Live Site URL: [Vercel](https://order-summary-component-flax-two.vercel.app/)
 
 ### Built with
 
